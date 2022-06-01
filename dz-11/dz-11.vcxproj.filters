@@ -15,12 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dz-11.cpp">
+    <ClCompile Include="dz 11.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="dz 11m.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="dz-11.h">
+    <ClInclude Include="dz 11.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

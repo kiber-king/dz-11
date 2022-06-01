@@ -24,6 +24,7 @@
     <ProjectGuid>{98503fe8-7fe9-4ceb-9c4e-8cf63d33b321}</ProjectGuid>
     <RootNamespace>dz11</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>dz 11</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,10 +140,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="dz-11.cpp" />
+    <ClCompile Include="dz 11.cpp" />
+    <ClCompile Include="dz 11m.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="dz-11.h" />
+    <ClInclude Include="dz 11.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
